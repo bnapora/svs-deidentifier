@@ -1,0 +1,5 @@
+Eel==0.12.2
+PyQt5==5.14.1
+tinynumpy
+pyinstaller
+commonmark
