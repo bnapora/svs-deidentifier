@@ -96,7 +96,7 @@ $ python -m eel deid-chrome.py web --name deid-chrome-onefile --onefile --nocons
 ***One-file mode with qwebengine does not work with pyinstaller***
 
 # For Windows
-$ python -m eel deid-chrome.py web --name deid-chrome-onefile --onefile --noconsole --icon=icon.ico --add-data *.md;. --noconfirm
+$ python -m eel deid-chrome.py web --name slide-clean-svs --onefile --noconsole --icon=GestaltIcon.ico --add-data *.md;. --noconfirm
 $ python -m eel deid-qwebengine.py web --name deid-qwebengine-onefile --onefile --noconsole --icon=icon.ico --add-data *.md;. --noconfirm
 
 ```
