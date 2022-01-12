@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import sys
 import eel
+import platform
 from PyQt5.QtWidgets import QApplication
 import wsideidentifier
 
